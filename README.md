@@ -35,6 +35,3 @@ Each region contains:
 - 🧹 **Easy cleanup** with a single `terraform destroy`  
 
 ---
-
-## 📂 Project Structure
-
